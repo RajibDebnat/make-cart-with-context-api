@@ -1,10 +1,11 @@
-![screencapture-localhost-5173-2024-07-24-07_57_35](https://github.com/user-attachments/assets/88fd28a0-ea0a-49b6-a58d-a4af36bed3f1)
 ![logo](https://github.com/user-attachments/assets/ac022ba3-b667-42f8-be77-8cf4162525d2)
 
 **#Elegant Context**
-![logo](https://github.com/user-attachments/assets/3e15c67b-cf9f-4efa-b108-b18ca16bfb72)
+
 
 Elegant Context is an e-commerce application designed to showcase and sell elegant clothing. This project leverages React.js for the frontend, along with the Context API and useReducer for state management. The project demonstrates effective use of these technologies to build a responsive, user-friendly shopping experience.
+
+![screencapture-localhost-5173-2024-07-24-07_57_35](https://github.com/user-attachments/assets/88fd28a0-ea0a-49b6-a58d-a4af36bed3f1)
 
 **Table of Contents
 Project Overview
