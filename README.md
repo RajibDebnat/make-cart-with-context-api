@@ -32,7 +32,7 @@ Clone the repository:
 
 
 Copy code
-**git clone(https://github.com/RajibDebnat/make-Cart-with-Context.git)
+**git clone (https://github.com/RajibDebnat/make-cart-with-context-api.git)
 Navigate to the project directory:**
 
 
